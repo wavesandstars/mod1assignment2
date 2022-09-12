@@ -1,0 +1,65 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+h1{
+    font-weight: 100;
+    margin-left: 20px;
+    margin-top: 10px;
+   
+}
+
+.container{
+    border: 1px solid rgb(74, 74, 74, 0.25);
+    width: 325px;
+    margin:auto;
+   
+    
+}
+
+
+
+.email {
+    margin-left: 2px;
+    font-size: 12px;
+}
+
+.pw{
+    margin-left: 50px;
+    font-size: 12px;
+    
+   
+}
+
+.forgotpw{
+    margin-left: 70px;
+    color:rgb(96, 181, 237);
+    font-size: 13px;
+    text-decoration: none;
+}
+
+input[type=submit]{
+    background-color: rgb(255, 196, 0);
+    width:280px;
+    margin-bottom: 10px;
+    padding:5px;
+    
+}
+.input{
+    margin:20px;
+   
+}
+
+.help{
+    margin:20px;
+    text-decoration: none;
+    color:rgb(96, 181, 237);
+    font-size: 13px;
+
+}
+.helpbox{
+    margin-bottom:20px;
+}
+
+footer
